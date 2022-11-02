@@ -1,0 +1,8 @@
+Sep 23 10:28:26 node kernel: em0: device is going DOWN
+Sep 23 10:28:26 node kernel: em0: device is going UP
+Sep 23 10:29:14 node cdsmon: /tmp/instance0 ; core dumped
+Sep 23 10:29:14 node cdsmon: /tmp/instance0 ; core dumped
+Sep 23 10:28:26 node kernel: em0: device is going DOWN
+Sep 23 10:29:14 node cdsmon: /tmp/instance1 ; core dumped
+Sep 23 10:28:26 node kernel: em0: device is going UP
+Sep 23 10:29:14 node cdsmon: /tmp/instance2 ; core dumped
